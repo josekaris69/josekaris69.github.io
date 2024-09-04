@@ -5,4 +5,4 @@ title: About
 
 ## About
 
-Hi, nice to meet you.
+Welcome to this interactive website about me.
