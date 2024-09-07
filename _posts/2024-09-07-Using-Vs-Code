@@ -3,10 +3,11 @@ layout: post
 title: Introduction to Visual Studio code
 subtitle: Extensions in Vs Code
 categories: Vs Code
-tags: [Vs code, intro, certificate]
+tags: [Vs code, intro]
 ---
 
 ## Adding Extensions to Visual Studio Code
+
 1. Click on the Extensions icon in the Activity Bar.
 2. Search for an extension in the Marketplace (e.g., Python, Prettier, etc.).
 3. Click Install next to the extension you want.
